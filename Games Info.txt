@@ -1,9 +1,9 @@
 04
-https://github.com/stingreyzapp/gamesImages/blob/master/SquishyCookieDriving.png?raw=true
+https://github.com/stingreyzapp/gamesImages/blob/master/_Games%20Sprites/SquishyCookieDriving.png?raw=true
 1439741228
 https://static.wixstatic.com/media/de67fb_78dc5859f68a48d59d69132bc5a3a31f~mv2.png
 1307291532
-https://static.wixstatic.com/media/de67fb_78dc5859f68a48d59d69132bc5a3a31f~mv2.png
+https://github.com/stingreyzapp/gamesImages/blob/master/_Games%20Sprites/SquishyCookieDriving.png?raw=true
 1439741228
 https://static.wixstatic.com/media/de67fb_78dc5859f68a48d59d69132bc5a3a31f~mv2.png
 1307291532
