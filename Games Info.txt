@@ -1,4 +1,4 @@
-09
+08
 https://github.com/stingreyzapp/gamesImages/blob/master/_Games%20Sprites/SquishyCookieDriving.png?raw=true
 1439741228
 https://github.com/stingreyzapp/gamesImages/blob/master/_Games%20Sprites/SquishyCookieDoll.png?raw=true
@@ -14,6 +14,4 @@ https://github.com/stingreyzapp/gamesImages/blob/master/_Games%20Sprites/Squishy
 https://github.com/stingreyzapp/gamesImages/blob/master/_Games%20Sprites/MySquishyCookie.png?raw=true
 1442190961
 https://github.com/stingreyzapp/gamesImages/blob/master/_Games%20Sprites/SquishyCookieCocktails.png?raw=true
-1446488354
-https://www.decorationsdemariage.fr/14897-thickbox_default/la-boite-a-dragees-cube-bleu-royal-par-25.jpg
 1446488354
